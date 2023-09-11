@@ -4,7 +4,7 @@
             "src":"/(.*)",
             "status":307,
             "headers":{
-                "location":"https://vip6.1ai.cc/$1"
+                "location":"https://vip6.1ai.ink/$1"
             }
         }
     ]
